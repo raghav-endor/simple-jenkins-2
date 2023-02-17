@@ -18,7 +18,7 @@
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.9.2</version>
-      <scope>provided</scope>
+      <scope>complie</scope>
     </dependency>
   </dependencies>
   <properties>
